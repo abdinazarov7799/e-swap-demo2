@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b1d13da.css",
+    "main.js": "/static/js/main.0bdccfa3.js",
+    "static/media/logo@3000px.svg": "/static/media/logo@3000px.7e2dfa901b785f6636a854d97bbdb2e5.svg",
+    "static/media/motors.png": "/static/media/motors.ad1b03a043defed45ffc.png",
+    "static/media/RealEstate.png": "/static/media/RealEstate.a5c0ee1283a1bec8dd92.png",
+    "index.html": "/index.html",
+    "main.3b1d13da.css.map": "/static/css/main.3b1d13da.css.map",
+    "main.0bdccfa3.js.map": "/static/js/main.0bdccfa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b1d13da.css",
+    "static/js/main.0bdccfa3.js"
+  ]
+}
